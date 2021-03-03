@@ -22,26 +22,26 @@
 [数据预处理实现](https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Code/Day%201_Data_Preprocessing.md)
 
 <p align="center">
-  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%201.jpg">
+  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/raw/master/Info-graphs/Day%201.jpg">
 </p>
 
 ## 简单线性回归 | 第2天
 [简单线性回归实现](https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Code/Day%202_Simple_Linear_Regression.md)
 
 <p align="center">
-  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%202.jpg">
+  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/raw/master/Info-graphs/Day%202.jpg">
 </p>
 
 ## 多元线性回归 | 第3天
 [多元线性回归实现](https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Code/Day%203_Multiple_Linear_Regression.md)
 
 <p align="center">
-  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%203.png">
+  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/raw/master/Info-graphs/Day%203.png">
 </p>
 
 ## 逻辑回归 | 第4天
 <p align="center">
-  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%204.jpg">
+  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/raw/master/Info-graphs/Day%204.jpg">
 </p>
 
 ## 逻辑回归 | 第5天
@@ -53,7 +53,7 @@
 
 ## K近邻法(k-NN) | 第7天
 <p align="center">
-  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%207.jpg">
+  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/raw/master/Info-graphs/Day%207.jpg">
 </p>
 
 ## 逻辑回归背后的数学 | 第8天
@@ -72,7 +72,7 @@
 
 ## 支持向量机(SVM) | 第12天
 <p align="center">
-  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2012.jpg">
+  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/raw/master/Info-graphs/Day%2012.jpg">
 </p>
 
 ## 支持向量机(SVM) | 第13天
@@ -107,7 +107,7 @@
 
 ## 决策树 | 第23天
 <p align="center">
-  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2023%20-%20Chinese.jpg">
+  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/raw/master/Info-graphs/Day%2023%20-%20Chinese.jpg">
 </p>
 
 ## 统计学习理论的介绍 | 第24天
@@ -153,7 +153,7 @@ B站播放列表在[这里](https://space.bilibili.com/88461692/#/channel/detail
 
 ## 随机森林 | 第33天
 <p align="center">
-  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2033.png">
+  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/raw/master/Info-graphs/Day%2033.png">
 </p>
 
 ## 随机森林 | 第34天
@@ -199,7 +199,7 @@ B站视频在[这里](https://space.bilibili.com/88461692/#/channel/detail?cid=2
 转到无监督学习，并研究了聚类。可在[作者网站](http://www.avikjain.me/)查询。发现一个奇妙的[动画](http://shabal.in/visuals/kmeans/6.html)有助于理解K-均值聚类。
 
 <p align="center">
-  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2043.jpg">
+  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/raw/master/Info-graphs/Day%2043.jpg">
 </p>
 
 ## K-均值聚类 | 第44天
@@ -284,5 +284,5 @@ B站视频在[这里](https://space.bilibili.com/88461692/#/channel/detail?cid=2
 [动画演示](https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Other%20Docs/%E5%B1%82%E6%AC%A1%E8%81%9A%E7%B1%BB.gif)
 
 <p align="center">
-  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%2054.jpg">
+  <img src="https://github.com/MachineLearning100/100-Days-Of-ML-Code/raw/master/Info-graphs/Day%2054.jpg">
 </p>
